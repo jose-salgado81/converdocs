@@ -1,2 +1,2 @@
 # converdocs
-Repo for the ConverDocs, which serves conversational documentation.
+Repo for ConverDocs, which serves conversational documentation.
